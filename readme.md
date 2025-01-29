@@ -25,10 +25,10 @@ sudo chmod 777 /dev/usb/lp0
 
 /dev/usb/lp0 may vary according to your device
 
-Install node-thermal-printer
+Install node-thermal-printer and sharp
 
 ```
-npm i node-thermal-printer
+npm i 
 ```
 
 Then Run
